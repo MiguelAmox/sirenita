@@ -201,7 +201,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Tu amor es mi fortaleza.",
 "Eres mi mayor inspiración.",
 "Amo tu risa.",
-"Eres mi mejor amiga.",
+"Eres mi mejor amiga.",//julio 15
 "Tu voz tiene un efecto calmante en mí.",
 "Amo cómo encuentras alegría en las pequeñas cosas.",
 "Eres la persona más auténtica que conozco.",
@@ -216,13 +216,13 @@ document.addEventListener("DOMContentLoaded", function() {
 "Eres la razón por la que creo en el amor verdadero.",
 "Tu entusiasmo por la vida es contagioso.",
 "Amo cómo siempre estás dispuesta a ayudar a los demás.",
-"Eres mi luz en los momentos oscuros.",
-"Tu espíritu libre me inspira a ser más aventurero.",
-"Amo cómo siempre sabes qué decir para hacerme sentir mejor.",
+"Eres mi luz en los momentos oscuros.",//julio 30 
+"Tu espíritu libre me inspira a ser más aventurero.",//julio 31
+"Amo cómo siempre sabes qué decir para hacerme sentir mejor.",//agosto 1
 "Eres mi mayor apoyo en todo lo que hago.",
 "Tu risa es el sonido más hermoso del mundo.",
 "Amo cómo haces que cada lugar se sienta como hogar.",
-"Eres mi compañera ideal en esta aventura llamada vida.",
+"Gracias por todas las enseñanzas y momentos juntos. Eres mi compañera ideal en esta aventura llamada vida. Feliz 5 Amorcito de mi vida.",// agosto 5
 "Tu amor me da la fuerza para enfrentar cualquier cosa.",
 "Amo cómo siempre encuentras una solución creativa.",
 "Eres mi motivación para seguir creciendo y aprendiendo.",
@@ -394,3 +394,4 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
 });
+
