@@ -6,7 +6,7 @@ document.getElementById('sobre').addEventListener('click', function() {
 document.addEventListener("DOMContentLoaded", function() {
     const messages = [
         "Amo tu sonrisa, ilumina mis días.",
-"Eres mi mejor amiga y confidente.",//1 enero
+"Eres mi mejor amiga y confidente.",//1 ener
 "Tus ojos color sol me hacen sentir en casa.",//2 enero
 "Eres increíblemente inteligente y eso me inspira.",//3 enero
 "Tu bondad es un faro en este mundo.",//4 enero
@@ -392,4 +392,5 @@ document.addEventListener("DOMContentLoaded", function() {
         star.style.animationDelay = `${Math.random() * 2}s`;
         backgroundAnimation.appendChild(star);
     }
+
 });
