@@ -238,7 +238,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Tu amor incondicional me da confianza.",
 "Eres mi amorcito.",
 "Si el Miguel del pasado supiera lo que hoy esta viviendo a tu lado[...]",
-"[...] no dudo que le saldrían lagrimas de alegría, tal como me salen ahora.",//20/08
+"[...] se que daría, iremos al infinito y más allá.",//21/08
 "Sigue luchando sirenita, tu puedes lograrlo, estoy muy orgulloso de lo que eres.",
 "Eres mi razón para mantener la esperanza.",
 "Tu piel me da una tranquilidad, pero a la vez es una chispa que enciende.",
