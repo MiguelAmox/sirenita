@@ -242,7 +242,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Sigue luchando sirenita, tu puedes lograrlo, estoy muy orgulloso de lo que eres.",
 "Eres mi razón para mantener la esperanza.",
 "Tu piel me da una tranquilidad, pero a la vez es una chispa que enciende.",
-"Amo cómo siempre encuentras tiempo para nosotros. Mi Bellota.",
+"Que bonito fue haber coincidido. Que diosito nos permita seguir conociendonos.",//8/25
 "Eres mi motor para seguir adelante.",
 "Eres una maravillosa persona y muy valiosa, a nombre de todos GRACIAS!!!.",
 "Gracias por compartir conmigo, este pequeño instante [...]",
