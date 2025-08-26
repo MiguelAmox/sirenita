@@ -243,7 +243,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Eres mi razón para mantener la esperanza.",
 "Tu piel me da una tranquilidad, pero a la vez es una chispa que enciende.",
 "Que bonito fue haber coincidido. Que diosito nos permita seguir conociendonos.",//8/25
-"Eres mi motor para seguir adelante.",
+"Muchas veces tenemos que ser pacientes. Que lo mejor esta por llegar.",//08/25
 "Eres una maravillosa persona y muy valiosa, a nombre de todos GRACIAS!!!.",
 "Gracias por compartir conmigo, este pequeño instante [...]",
 "[...] que es nuestra vida al lado de la vida del cosmos.",
