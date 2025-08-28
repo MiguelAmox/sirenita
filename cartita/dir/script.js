@@ -245,7 +245,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Que bonito fue haber coincidido. Que diosito nos permita seguir conociendonos.",//8/25
 "Muchas veces tenemos que ser pacientes. Que lo mejor esta por llegar.",//08/25
 "Eres una maravillosa persona y muy valiosa, a nombre de todos GRACIAS!!!.",
-"Gracias por compartir conmigo, este pequeño instante [...]",
+"Hay muchos gestos de ti que me enamoran, que dicha la mía.",
 "[...] que es nuestra vida al lado de la vida del cosmos.",
 "Siempre fuiste, eres y serás mi 11:11, solo que aun no te conocía.",
 "Amo cómo siempre encuentras el lado bueno de las cosas. Y si no, aquí estoy yo.",//30/08
