@@ -249,7 +249,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "[...] que es nuestra vida al lado de la vida del cosmos.",
 "Siempre fuiste, eres y serás mi 11:11, solo que aun no te conocía.",
 "Amo cómo siempre encuentras el lado bueno de las cosas. Y si no, aquí estoy yo.",//30/08
-"Sirenita mía. Me encatas mas cada día. Te amo",//31/08
+"Sirenita mía. Me encatas mas cada día. Que este nuevo mes este lleno de bendiciones. Te amo.",//31/08
 "Tu energía positiva ilumina mi vida.",
 "Amo cómo haces que cada día sea una nueva oportunidad.",
 "Eres mi fuente de inspiración constante.",//03/09
