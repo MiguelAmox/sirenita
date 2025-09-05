@@ -253,8 +253,8 @@ document.addEventListener("DOMContentLoaded", function() {
 "Como olvidar esa primer canción que bailamos juntos.",
 "Amo cómo haces que cada día sea una nueva oportunidad.",
 "Eres mi fuente de inspiración constante.",//03/09
-"Lo que me haces sentir es hermoso, hermoso como acostarme en tu pecho y olvidarme del mundo, del tiempo, de los problemas, hermoso como besarte y olvidar el pasado [...]",//04/09
-"[...] mis temores, mis fantasmas, hermoso como tomar tu mano, y recordar que el amor existe, tú eres la prueba.",//05/09
+"Me la paso soñando que de tus ojos yo soy el dueño... Amorcito mío gracias por cada instante. Te amo. Feliz 5.",//04/09
+"Mi Sirena, única en el mundo",//05/09
 "Eres mi razón para seguir creyendo en la bondad.",
 "Tu sonrisa hace que el mundo sea un lugar mejor.",
 "Desde que me quieres comprendí, que Dios tenia otros planes para mí. (Lo tienes todo - Julión Álvarez).",
