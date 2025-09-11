@@ -259,7 +259,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Tu sonrisa hace que el mundo sea un lugar mejor.",
 "Desde que me quieres comprendí, que Dios tenia otros planes para mí. (Lo tienes todo - Julión Álvarez).",
 "Los lunes son bonitos desde que te conocí, por que es el día que te vuelvo a ver.",
-"La calidad de tu amor me da la confianza para soñar, o como dice el chicharito imaginemos cosas chingonas.",//10/09
+"No olvidemos que tus ojitos son unos bellos ojotos color sol..",//10/09
 "Poco a poco, te fuiste metiendo en mi vida.",
 "Sin malas intenciones lo nuestro se fue construyendo y dando, eso es lo mejor.",
 "Quiero llegar a viejitos juntos.",
