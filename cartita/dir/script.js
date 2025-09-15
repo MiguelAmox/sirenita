@@ -263,8 +263,8 @@ document.addEventListener("DOMContentLoaded", function() {
 "Poco a poco, te fuiste metiendo en mi vida.",
 "Sin malas intenciones lo nuestro se fue construyendo y dando, eso es lo mejor.",
 "Quiero llegar a viejitos juntos.",
-"Dios quiera que mi lugar sea a tu lado.",
-"Eres mi razón para seguir adelante, sin importar qué ni como.",//15/09
+"Dios quiera que mi lugar sea a tu lado.",//15/09
+"Bendito yo, por encontrarte. 😍.",//16/09
 "La verdad es que para mí eres un ejemplo a seguir.",
 "Amo cómo siempre tienes una palabra de aliento.",
 "Eres mi razón para mantener la fe.",
