@@ -1,4 +1,4 @@
-document.getElementById('sobre').addEventListener('click', function() {
+ document.getElementById('sobre').addEventListener('click', function() {
   this.classList.toggle('abierto');
 });
 
@@ -270,7 +270,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Eres mi razón para mantener la fe.",
 "Tu amor me hace sentir afortunado",
 "Admiro el esfuerzo que haces para cumplir con tus objetivos. Te admiro mucho sirenita. Pronto tendrás lo que mereces, sigue así.",//20/09
-"Tú tambien me caes bien sirenita. Jejeje",
+"Que se cumpla todo lo que deseas amorcito. Te amote.",
 "Me gusta mucho comer, y más si es a tí. ❤️",
 "Amo cómo siempre haces que me sienta especial.",
 "Eres mi razón para ser mejor. 🥰",
