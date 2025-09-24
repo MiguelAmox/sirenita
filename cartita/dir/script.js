@@ -272,7 +272,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Admiro el esfuerzo que haces para cumplir con tus objetivos. Te admiro mucho sirenita. Pronto tendrás lo que mereces, sigue así.",//20/09
 "Que se cumpla todo lo que deseas amorcito. Te amote.",
 "Me gusta mucho comer, y más si es a tí. ❤️",
-"Amo cómo siempre haces que me sienta especial.",
+"Una chica miy bella esta leyendo esto. 😍",
 "Eres mi razón para ser mejor. 🥰",
 "Tu amor es mi lugar feliz. 🏠",//25/09
 "El día que no estoy contigo, es como una mañana de frío sin mi café. ☕ Sin mi pan. 🥖",
