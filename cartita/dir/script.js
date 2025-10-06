@@ -284,7 +284,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Amo cómo siempre encuentras la manera de animarme.",
 "Qué bueno que paso lo que paso para que nos conociéramos. 💟",//03/10
 "Eres una prioridad, mi sirena. Gracias por un 5 más amorcito mío 💐",//04/10
-"Pido a Dios que nos permita una vida juntos. Y feliz de estar un mes más a tu lado. 🧜‍♀️",//05/10
+"Pido a Dios que nos permita una vida juntos. 🧜‍♀️",//05/10
 "Vales muchisimo mi amor, como novia, como profesionista, como persona en general. 🌚",//06/10
 "Agradecido de estar con una chica que siempre me incluye en todo.🌒",//07/20
 "Tienes una sonrisa que le da una alegría a mi corazoncito. 🌓",//08/10
