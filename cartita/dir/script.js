@@ -299,7 +299,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Amo cómo siempre haces que me sienta amado.",//17/10
 "Eres mi razón para seguir soñando.",//19/10
 "Tu amor me da la fuerza para seguir adelante.",//20/10
-"Te amo sirena.",//22/10
+"Hoy cumple años una chica maravillosa, con una calidad de persona increible. Que diosito te bendiga siempre, y nunca dejes de soñar. Feliz Cumpleaños amor de mi vida",//22/10
 "De que manera te digo... que no quiero ser tu amigo ni tu confidente quiero mas que eso 💕",//22//10
 "Hay algo en tu mirada, que recorre mi silencio.",//23/10
 "Te veo y me encantas más y más.",//24/10
