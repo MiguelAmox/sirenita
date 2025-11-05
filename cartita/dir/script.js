@@ -314,6 +314,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Tu presencia hace que cada día sea mejor.",//2/11
 "Amo cómo siempre haces que todo valga la pena.",//3/11
 "Gracias mi sirenita por un mes increible, y que vengan muchos más. ❤️",//4/11
+"Gracias mi sirenita por un mes increible, y que vengan muchos más. ❤️",//4/11
 "Tu amor me da la fuerza para ser mejor persona.",//5/11
 "Amo cómo siempre encuentras la manera de animarme.",//6/11
 "Eres mi fuente de alegría.",
