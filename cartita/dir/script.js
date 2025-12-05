@@ -344,7 +344,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Eres mi inspiración para ser más positivo.",//2/12
 "Tu presencia hace que cada día sea mejor.",//3/12
 "Amo cómo siempre haces que todo valga la pena.",//4/12
-"Gracias por 6 meses a tu lado, conocerte es algo de lo que sin duda, estoy muy felíz. Te amo ❤️",//5/12
+"Gracias por año y 6 meses a tu lado, conocerte es algo de lo que sin duda, estoy muy felíz. Te amo ❤️",//5/12
 "Tu amor me da la fuerza para ser mejor persona.",//6/12
 "Amo cómo siempre encuentras la manera de animarme.",//7/12
 "Eres mi fuente de alegría.",//8/12
