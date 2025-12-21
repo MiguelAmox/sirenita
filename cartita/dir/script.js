@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Eres increíblemente inteligente y eso me inspira.",//3 enero
 "Tu bondad es un faro en este mundo.",//4 enero
 "Feliz, de cumplir un mes más a tu lado amorcito de mi vida. Te am❤️",//5 enero
-"Que este inicio oficial de año laboral sea el arranque de mucho éxito y prosperidad. 🐝",//6 enero
+"Feliz de cada momento que compartimos juntos, y que quedan grabados, grabados en el corazón. 🐝",//6 enero
 "Tu risa es mi música favorita. Y tus ojitos, algo como la mejor pelicula. 💕",//7 enero
 "Amo cómo cuidas de los demás, eso es algo invaluable. 🐘❤️",//8 enero
 "Sigue constante, que todo lo que haces poco a poco esta dando sus frutos. 🌱",//9 enero
