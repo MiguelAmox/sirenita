@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Amo cómo me cuidas. 🌚",//febrero 28
 "Eres mi compañera en todo.", //marzo 1
 "Admiro tu fortaleza interior.",//marzo 2
-"Eres un ejemplo de integridad.",//marzo 3
+"Eres un ejemplo de integridad. Te amo wapota",//marzo 3
 "Amo tu forma de amar.",//marzo 4
 "Eres una persona que tiene una forma de ser tan linda, y soy afortunado de estar contigo. Gracias por un mes más de aprendizajes ❤️.",//marzo 5
 "Adoro tus caricias.",//marzo 6
