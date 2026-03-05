@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", function() {
 "Admiro tu fortaleza interior.",//marzo 2
 "Eres un ejemplo de integridad. Te amo wapota",//marzo 3
 "Amo tu forma de amar.",//marzo 4
-"Eres una persona que tiene una forma de ser tan linda, y soy afortunado de estar contigo. Gracias por un mes más de aprendizajes ❤️.",//marzo 5
+"Gracias amorcito mío, soy tan afortunado de haber conocido a la chica más maravillosa, me encantas en todos los sentidos. Feliz 5 Sirenita. 🩷",//marzo 5
 "Adoro tus caricias.",//marzo 6
 "Eres mi motivación para ser mejor.",//marzo 7
 "Tu bondad es un regalo.",//marzo 8
